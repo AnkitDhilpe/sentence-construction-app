@@ -1,16 +1,35 @@
+# Sentence Construction App
 
-# React + Vite
+This is a clone of CA-Monks' Sentence Construction tool, built using **React** and **Vite**. It is designed to help users improve sentence formation skills through an interactive multiple-choice quiz format.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🔧 Tech Stack
 
-Currently, two official plugins are available:
+- **React** – Front-end UI framework
+- **Vite** – Lightning-fast build tool and dev server
+- **React Router** – For navigating between questions
+- **ESLint** – For code linting and best practices
+- **JSON** – Used as a data source for questions
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🧠 Multiple-choice sentence construction questions  
+- ⏱️ Timer to challenge users and encourage quick thinking  
+- 📦 JSON-based question loading  
+- 🚥 Navigation through questions using React Router  
+- 💡 Immediate feedback on correct/incorrect answers
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) 
-# sentence-construction-app
-This is my clone of CA-monks Sentence Construction tool.  
+## 🛠️ Getting Started
 
+### Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (v16 or higher recommended)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+
+### Installation
+
+```bash
+git clone https://github.com/your-username/sentence-construction-app.git
+cd sentence-construction-app
+npm install
