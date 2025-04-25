@@ -18,6 +18,9 @@ This is a clone of CA-Monks' Sentence Construction tool, built using **React** a
 - 🚥 Navigation through questions using React Router  
 - 💡 Immediate feedback on correct/incorrect answers
 
+###Link to App hosted on Render
+Link:- https://sentence-construction-app.onrender.com
+
 ## 🛠️ Getting Started
 
 ### Prerequisites
@@ -33,3 +36,6 @@ Make sure you have the following installed:
 git clone https://github.com/your-username/sentence-construction-app.git
 cd sentence-construction-app
 npm install
+### Run the project locally
+```bash
+npm run dev
