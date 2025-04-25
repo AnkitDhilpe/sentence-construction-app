@@ -36,6 +36,4 @@ Make sure you have the following installed:
 git clone https://github.com/your-username/sentence-construction-app.git
 cd sentence-construction-app
 npm install
-### Run the project locally
-```bash
 npm run dev
